@@ -86,38 +86,6 @@ h1 {
   padding: 16px 22px;
 }
 
-select {
-  display: inline;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -ms-appearance: none;
-  appearance: none;
-  box-shadow: none;
-  border: 10 !important;
-  border-width: 2px;
-  background-image: none;
-  border-color: linear-gradient(
-    90deg,
-    rgb(157, 108, 255) 0%,
-    rgb(200, 112, 255) 100%
-  );
-  border-color: #9c6bff;
-  color: #9c6bff;
-  padding: 14px 0px 14px 14px;
-  border-radius: 4px;
-  background-color: #fff;
-}
-
-/* Custom Select */
-.select {
-  margin: 0.5rem;
-  position: relative;
-  overflow: hidden;
-  display: inline;
-  background-color: #9c6bff;
-
-}
-
 .todo-container {
   display: flex;
   flex-direction: row;
